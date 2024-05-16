@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [on creating an AI community at the Coastal region of Kenya](https://huggingface.co/G00dlife)
 
-- 🌱 I’m currently learning **SQL and AI**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **data science related projectss**
 
