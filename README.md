@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **data science related projectss**
 
-- 🤝 I’m looking for help with **machine learning expertise**
-
 - 👨‍💻 All of my projects are available at [https://github.com/swalehmwadime](https://github.com/swalehmwadime)
 
 - 💬 Ask me about **data analysis, data visualizations, machine learning algorithms**
