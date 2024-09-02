@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/swalehmwadime](https://github.com/swalehmwadime)
 
-- 💬 Ask me about **data analysis, data visualizations, machine learning algorithms**
+- 💬 Ask me about **data analysis, machine learning algorithms,AI**
 
 - 📫 How to reach me **https://www.linkedin.com/in/swaleh-mwadime/**
 
-- ⚡ Fun fact **data nerds**
+- ⚡ Fun fact **data nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
