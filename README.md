@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swaleh Mwadime</h1>
-<h3 align="center">A passionate Data Scientist from Kenya</h3>
+<h3 align="center">A Data Scientist from Kenya</h3>
 
 - 🔭 I’m currently working on [on creating an AI community at the Coastal region of Kenya](https://huggingface.co/G00dlife)
 
-- 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **data science related projectss**
+- 👯 Looking to collaborate on **data science related projectss**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swalehmwadime](https://github.com/swalehmwadime)
 
-- 💬 Ask me about **data analysis, machine learning algorithms,AI**
+- 💬 Ask me about **Entrepreneurship,data analysis, machine learning ,AI, Robotics**
 
 - 📫 How to reach me **https://www.linkedin.com/in/swaleh-mwadime/**
 
