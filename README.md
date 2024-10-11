@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [on creating an AI community at the Coastal region of Kenya](https://huggingface.co/G00dlife)
 
+- We are creating a STEM eLearning Platform here is an [MVP preview](https://stem-e-learning.vercel.app/)
+
 - 👯 Looking to collaborate on **data science related projectss**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swalehmwadime](https://github.com/swalehmwadime)
