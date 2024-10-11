@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swaleh Mwadime</h1>
 <h3 align="center">A Data Scientist from Kenya</h3>
 
-<a href="https://github.com/sponsors/swalehmwadime/button" title="Support swalehmwadime on GitHub">
-  <img src="https://github.com/sponsors/swalehmwadime/button" alt="Support swalemwadime on GitHub" />
-</a>
-
 - 🔭 I’m currently working on [on creating an AI community at the Coastal region of Kenya](https://huggingface.co/G00dlife)
 
 - For those interested in learning **STEM** :Science| Technolgy |Engineering |Math here is a platform for you [MVP preview](https://stem-e-learning.vercel.app/)
